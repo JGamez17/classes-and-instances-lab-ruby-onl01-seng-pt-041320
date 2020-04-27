@@ -1,4 +1,6 @@
 class Dog 
 end   
   
-fido = dog 
+fido = Dog 
+snoopy = Dog 
+Jax = Dog 
